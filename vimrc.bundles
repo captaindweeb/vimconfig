@@ -1,0 +1,8 @@
+Bundle 'kien/ctrlp.vim'
+Bundle 'fholgado/minibufexpl.vim'
+Bundle 'tpope/vim-commentary'
+Bundle 'tpope/vim-repeat'
+Bundle 'airblade/vim-gitgutter'
+Bundle 'vim-airline/vim-airline'
+Bundle 'vim-airline/vim-airline-themes'
+
